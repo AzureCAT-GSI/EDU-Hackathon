@@ -26,6 +26,8 @@ In this session, we will provide a brief overview of the EDU opportunity for par
 
 ## Module 02-AAD and graph for EDU ##
 
+In this session, we introduce Azure Active Directory and describe at a high level how to get tokens for Microsoft Graph.
+
 [View PowerPoint](Presentation/02-AAD%20and%20graph%20for%20EDU.pptx?raw=true)
 
 [Link to AAD developer branding guidelines](https://docs.microsoft.com/azure/active-directory/develop/active-directory-branding-guidelines)
