@@ -14,7 +14,7 @@ There are a few options for this challenge, you choose the appropriate path for 
 * Design for roles or additional functionality
 
 ### Option B - Use a sample application ##
-* View the sample application code (Currently .NET only) [https://github.com/OfficeDev/O365-EDU-AspNetMVC-Samples]()
+* View the sample application code (Currently .NET only) https://github.com/OfficeDev/O365-EDU-AspNetMVC-Samples
 * Run and debug to understand the flow of the application AuthN, AuthZ process
 * You can also download another sample app and implement SSO
 * Discuss the design choices for the sample application
@@ -25,8 +25,7 @@ There are a few options for this challenge, you choose the appropriate path for 
 * View your application and design the options for implementing role based access controls
 
 ## Hints for All Platforms ##
-* Review the consent flow [https://developer.microsoft.com/en-us/graph/docs/concepts/permissions_reference
-]()
+* Review the consent flow https://developer.microsoft.com/en-us/graph/docs/concepts/permissions_reference
 
 
 
