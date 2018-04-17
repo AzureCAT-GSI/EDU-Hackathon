@@ -1,4 +1,4 @@
-# EDU partner Developer Bootcamp
+ EDU partner Developer Bootcamp
 This hands-on challenge will help you integrate the rostering and the Schools REST API into your application
 
 ---
@@ -11,7 +11,7 @@ There are a few options for this challenge, you choose the appropriate path for 
 * Implement roster data into your application
 
 ### Option B - Use a sample application ##
-* View the sample application code (Currently .NET only) [https://github.com/OfficeDev/O365-EDU-AspNetMVC-Samples]()
+* View the sample application code (Currently .NET only) https://github.com/OfficeDev/O365-EDU-AspNetMVC-Samples
 * Run and debug to understand the integration of roster data and the Schools REST API
 * Discuss the design choices for the sample application
 
